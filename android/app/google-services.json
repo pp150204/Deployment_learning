@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305515487204",
+    "project_id": "deployment-b13d9",
+    "storage_bucket": "deployment-b13d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305515487204:android:f7b6b5f361f3d7d8f731f1",
+        "android_client_info": {
+          "package_name": "com.example.deployment_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpcvzOxHUS5ZKZnL7UgmLQJXeeqELu5sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
